@@ -24,7 +24,7 @@
     <td width="50%">
       <ul>
         <li>🧠 Apaixonado por arquitetura de software, microsserviços e segurança de APIs.</li>
-        <li>⚙️ Focado em desenvolver códigos backend eficientes utilizando Python com FastAPI e NestJS.</li>
+        <li>⚙️ Focado em desenvolver códigos backend eficientes utilizando Python com FastAPI </li>
         <li>⚡ Buscando sempre escrever códigos limpos, performáticos e escaláveis.</li>
       </ul>
     </td>
