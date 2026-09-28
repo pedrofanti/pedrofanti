@@ -67,16 +67,10 @@
 ### 📊 // ACTIVITY_TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrofanti&theme=tokyo-night&hide_border=true&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF&area_opacity=20" width="100%" />
+  <img src="https://img.shields.io/badge/STATUS-CONTINUOUS_DEPLOYMENT-00BFFF?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/SYNC-REALTIME_TELEMETRY-00BFFF?style=for-the-badge&logo=icloud&logoColor=00BFFF&labelColor=0a0a0a" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-SYSTEM_OPERATIONAL-00BFFF?style=for-the-badge&logo=icloud&logoColor=00BFFF&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/SECURITY-SECURE_NODE-00BFFF?style=for-the-badge&logo=letsencrypt&logoColor=00BFFF&labelColor=0a0a0a" />
-</p>
-
----
-
-<p align="center">
-  <i>✨ "Transformando ideias complexas em código eficiente e escalável." ✨</i>
+  <img src="https://img.shields.io/badge/MAIN_BRANCH-PROTECTED_%2F_ONLINE-00BFFF?style=for-the-badge&logo=letsencrypt&logoColor=00BFFF&labelColor=0a0a0a" />
 </p>
