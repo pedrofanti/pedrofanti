@@ -55,8 +55,13 @@
 ### 📊 Estatísticas e Sequência de Commits
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrofanti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8&icon_color=38BDF8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofanti&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8" width="48%" />
+
+  <img src="https://img.shields.io/badge/MAIN_LANGUAGE-PYTHON_%2F_TYPESCRIPT-00ffcc?style=for-the-badge&logo=codeforces&logoColor=00ffcc&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/CODE_EDITOR-CURSOR_%2F_VS_CODE-00ffcc?style=for-the-badge&logo=visualstudioatelier&logoColor=00ffcc&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/OS-UBUNTU_LINUX-00ffcc?style=for-the-badge&logo=ubuntu&logoColor=00ffcc&labelColor=0a0a0a" />
+
+</p>
+
 </p>
 
 <p align="center">
