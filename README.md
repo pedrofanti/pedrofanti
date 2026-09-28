@@ -50,18 +50,7 @@
 
 ---
 
-### 🐍 O "Jogo da Cobrinha" com os meus Commits
-*Esta animação consome o seu histórico real de commits do ano e transforma em um joguinho estilo Snake passando por cima dos seus quadrados de contribuição:*
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrofanti/pedrofanti/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrofanti/pedrofanti/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrofanti/pedrofanti/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
 
 ### 📊 Estatísticas e Sequência de Commits
 
