@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Full-Stack Software Developer & Microempreendedor (MEI)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+com+Python+%26+FastAPI;Microsservi%C3%A7os+e+Arquitetura+Escal%C3%A1vel;Intelig%C3%AAncia+Artificial+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+com+Python+%26+FastAPI;Microsservi%C3%A7os+e+Arquitetura+Escal%C3%A1vel;Desenvolvimento+Robustos+em+NestJS" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
     <td width="50%">
       <ul>
         <li>🧠 Apaixonado por arquitetura de software, microsserviços e segurança de APIs.</li>
-        <li>🤖 Focado em Inteligência Artificial, Engenharia de Prompt e automações com LLMs locais.</li>
+        <li>⚙️ Focado em desenvolver códigos backend eficientes utilizando Python com FastAPI e NestJS.</li>
         <li>⚡ Buscando sempre escrever códigos limpos, performáticos e escaláveis.</li>
       </ul>
     </td>
@@ -36,7 +36,7 @@
 ### 🛠️ Stack Tecnológica & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,nestjs,cs,react,ts,js,postgres,mongodb,docker,linux,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,nestjs,cs,react,ts,js,postgres,mongodb,docker,git,github&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -50,18 +50,10 @@
 
 ---
 
-
-
-### 📊 Estatísticas e Sequência de Commits
+### 📊 Estatísticas
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/MAIN_LANGUAGE-PYTHON_%2F_TYPESCRIPT-9D00FF?style=for-the-badge&logo=codeforces&logoColor=9D00FF&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/CODE_EDITOR-_VS_CODE-9D00FF?style=for-the-badge&logo=visualstudioatelier&logoColor=9D00FF&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/OS-UBUNTU_LINUX-9D00FF?style=for-the-badge&logo=ubuntu&logoColor=9D00FF&labelColor=0a0a0a" />
-
-</p>
-
 </p>
 
 ### 📊 // ACTIVITY_TELEMETRY
@@ -73,9 +65,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MAIN_BRANCH-PROTECTED_%2F_ONLINE-00BFFF?style=for-the-badge&logo=letsencrypt&logoColor=00BFFF&labelColor=0a0a0a" />
-
-
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrofanti&theme=tokyonight&hide_border=true&background=1a1b26&fire=38BDF8&sideLabels=true" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrofanti&theme=tokyonight&hide_border=true&background=1a1b26&fire=38BDF8&sideLabels=true" width="100%" />
 </p>
