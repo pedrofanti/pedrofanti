@@ -64,8 +64,15 @@
 
 </p>
 
+### 📊 // ACTIVITY_TELEMETRY
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrofanti&theme=tokyonight&hide_border=true&background=1a1b26&fire=38BDF8&sideLabels=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrofanti&theme=tokyo-night&hide_border=true&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF&area_opacity=20" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM_OPERATIONAL-00BFFF?style=for-the-badge&logo=icloud&logoColor=00BFFF&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/SECURITY-SECURE_NODE-00BFFF?style=for-the-badge&logo=letsencrypt&logoColor=00BFFF&labelColor=0a0a0a" />
 </p>
 
 ---
