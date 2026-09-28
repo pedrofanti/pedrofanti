@@ -73,4 +73,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MAIN_BRANCH-PROTECTED_%2F_ONLINE-00BFFF?style=for-the-badge&logo=letsencrypt&logoColor=00BFFF&labelColor=0a0a0a" />
+
+
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrofanti&theme=tokyonight&hide_border=true&background=1a1b26&fire=38BDF8&sideLabels=true" width="100%" />
+</p>
 </p>
