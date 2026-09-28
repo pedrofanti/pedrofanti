@@ -69,20 +69,17 @@
 
 <br clear="both">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrofanti/pedrofanti/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrofanti/pedrofanti/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrofanti/pedrofanti/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+### 📊 // ACTIVITY_TELEMETRY
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-CONTINUOUS_DEPLOYMENT-00BFFF?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/SYNC-REALTIME_TELEMETRY-00BFFF?style=for-the-badge&logo=icloud&logoColor=00BFFF&labelColor=0a0a0a" />
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/pedrofanti/pedrofanti/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/pedrofanti/pedrofanti/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=pedrofanti&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/pedrofanti/pedrofanti/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/pedrofanti/pedrofanti/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/MAIN_BRANCH-PROTECTED_%2F_ONLINE-00BFFF?style=for-the-badge&logo=letsencrypt&logoColor=00BFFF&labelColor=0a0a0a" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrofanti&theme=tokyonight&hide_border=true&background=1a1b26&fire=38BDF8&sideLabels=true" width="100%" />
+</p>
