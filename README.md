@@ -45,25 +45,33 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **🏥 Health 3A** | Ecossistema de aplicações médicas voltado para triagem, automação de fluxos de atendimento e integração de prontuários. | `Python` `FastAPI` `PostgreSQL` |
 | **📈 Apex Broker** | Plataforma de trading web robusta desenvolvida com interfaces de gráficos financeiros em tempo real. | `TypeScript` `React` `Node.js` |
 | **🤖 J.A.R.V.I.S.** | Sistema de infraestrutura de inteligência artificial soberana com APIs em tempo real e orquestração Docker. | `Python` `Docker` `LLMs` |
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🐍 O "Jogo da Cobrinha" com os meus Commits
+*Esta animação consome o seu histórico real de commits do ano e transforma em um joguinho estilo Snake passando por cima dos seus quadrados de contribuição:*
 
 <p align="center">
-  <a href="https://github.com/pedrofanti">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrofanti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8&icon_color=38BDF8" height="170" />
-  </a>
-  <a href="https://github.com/pedrofanti">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofanti&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8" height="170" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrofanti/pedrofanti/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrofanti/pedrofanti/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrofanti/pedrofanti/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 📊 Estatísticas e Sequência de Commits
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrofanti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8&icon_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofanti&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38BDF8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrofanti&theme=tokyonight&hide_border=true&background=1a1b26&fire=38BDF8&sideLabels=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrofanti&theme=tokyonight&hide_border=true&background=1a1b26&fire=38BDF8&sideLabels=true" width="100%" />
 </p>
 
 ---
