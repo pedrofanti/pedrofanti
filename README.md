@@ -56,9 +56,9 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/MAIN_LANGUAGE-PYTHON_%2F_TYPESCRIPT-00ffcc?style=for-the-badge&logo=codeforces&logoColor=00ffcc&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/CODE_EDITOR-CURSOR_%2F_VS_CODE-00ffcc?style=for-the-badge&logo=visualstudioatelier&logoColor=00ffcc&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/OS-UBUNTU_LINUX-00ffcc?style=for-the-badge&logo=ubuntu&logoColor=00ffcc&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/MAIN_LANGUAGE-PYTHON_%2F_TYPESCRIPT-9D00FF?style=for-the-badge&logo=codeforces&logoColor=9D00FF&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/CODE_EDITOR-CURSOR_%2F_VS_CODE-9D00FF?style=for-the-badge&logo=visualstudioatelier&logoColor=9D00FF&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/OS-UBUNTU_LINUX-9D00FF?style=for-the-badge&logo=ubuntu&logoColor=9D00FF&labelColor=0a0a0a" />
 
 </p>
 
